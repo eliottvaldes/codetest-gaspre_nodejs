@@ -4,13 +4,23 @@
   "description": "Code test project to BackEnd Mid JS developer",
   "main": "index.js",
   "scripts": {
-    
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eliottvaldes/codetest-gaspre_nodejs.git"
-},
+  },
   "keywords": [],
   "author": "Eliot Valdés",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliottvaldes/codetest-gaspre_nodejs/issues"
+  },
+  "homepage": "https://github.com/eliottvaldes/codetest-gaspre_nodejs#readme",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
 }
