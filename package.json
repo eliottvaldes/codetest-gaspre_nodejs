@@ -1,0 +1,16 @@
+{
+  "name": "codetest-gaspre_nodejs",
+  "version": "1.0.0",
+  "description": "Code test project to BackEnd Mid JS developer",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliottvaldes/codetest-gaspre_nodejs.git"
+},
+  "keywords": [],
+  "author": "Eliot Valdés",
+  "license": "ISC"
+}
